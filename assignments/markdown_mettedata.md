@@ -1,5 +1,10 @@
 # Pros and Cons of MarkDown for Technical Writing
 
+Switching to markdown might simplify your life as a technical writer, but it could also complicate your workflows. Consider these pros and cons to help you decide the best path forward. And while you're considering, ask yourself these questions to help you focus on your organization's particular needs:
+1. **How complex is your API documenation?**  If it involves a lot of intricate tables, diagrams, or highly customized layouts that are difficult to achieve in standard markdown, switching to markdown could leave you with gaps that take more work and processes to fill.
+2. **How structured does your documentation need to be?**  Markdown excels at hierarchical structures using headings, lists, and code blocks. If you require very fine-grained control over layout and formatting beyond this, you might need to consider extensions or other formats.
+3. **Do you need to embed interactive elements?**  Standard markdown has limitations with interactive components. If your API documentation requires live examples or interactive consoles, you'll need to explore how to integrate these using other tools. 
+
 ### Pros
 
 * Easy to learn and quick to write.
@@ -23,8 +28,8 @@
 * Reviews, unless in GitHub or the like, are difficult for non-developer SMEs like PMs who don't use GitHub typically.
 
 #### *Table Presentation of Pros and Cons*
-| **Pros** | **Cons** |
-|--------------------------------|:--------------------------------:|
+|  <div align="left">**Pros**</div> | <div align="left">**Cons**</div>  |
+|--------------------------------|--------------------------------|
 | Easy to learn, quick to write  | Not standardized                 |
 | Easy to read                   | Many incompatible flavors        |
 | Versatile                      | Limited formatting               |
