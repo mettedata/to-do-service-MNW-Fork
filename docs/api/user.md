@@ -44,3 +44,6 @@ Sample `user` resource
 
 * [Get all users](users-get-all-users.md)
 * [Get users by ID](users-get-user-by-id.md)
+
+## Delete operations
+* [Delete user by ID](Ref_DELETE_User.md)
