@@ -42,6 +42,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Get all tasks](tutorials/get-all-tasks.md)
 * [Get a user by last name](tutorials/get-a-user-by-last-name.md)
 * [Change the due-date of a task _(coming soon)_](#tutorials)
+* [Update a task](tutorials/update-a-task.md)
 * [Delete a task _(coming soon)_](#tutorials)
 
 ## API reference docs
